@@ -13,6 +13,7 @@
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/powershell.png" alt="PowerShell" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/figma-icon.svg" alt="Figma" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/xampp.png" alt="XAMPP" height="50" />  
+<img style="margin: 10px" src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="XAMPP" height="50" />
 </div>  
 
 
