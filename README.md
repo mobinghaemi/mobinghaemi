@@ -20,6 +20,7 @@
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" />
 <img style="margin: 10px" src="https://cdn.iconscout.com/icon/premium/png-256-thumb/json-18-695417.png" alt="Json" height="50" />
+<img style="margin: 10px" src="https://softinfonow.com/wp-content/uploads/2021/09/oops-logo.png" alt="OOP" height="50" />
   
 <img style="margin: 10px" src="https://images.squarespace-cdn.com/content/v1/502dd96584ae3ea0a825237d/1536765270713-S3RZH90CB3XJ3PKMXY4N/Logo+-+Color+on+White.png?format=1000w" alt="Canvas.js" height="50" />
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" />  
