@@ -7,6 +7,8 @@
 <div align="center">  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" />  
+<img style="margin: 10px" src="https://cdn0.iconfinder.com/data/icons/flat-round-system/512/archlinux-512.png" alt="Arch" height="50" /> 
+
 <img style="margin: 10px" src="https://icon-library.com/images/bash-icon/bash-icon-5.jpg" alt="Bash" height="50" />  
   <img style="margin: 10px" src="https://fishshell.com/assets/img/Terminal_Logo_LCD_Small.png" alt="Bash" height="50" />
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/xampp.png" alt="XAMPP" height="50" />  
@@ -17,7 +19,7 @@
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/sass-original.svg" alt="Sass" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" />
-  <img style="margin: 10px" src="https://images.squarespace-cdn.com/content/v1/502dd96584ae3ea0a825237d/1536765270713-S3RZH90CB3XJ3PKMXY4N/Logo+-+Color+on+White.png?format=1000w" alt="JavaScript" height="50" />
+  <img style="margin: 10px" src="https://images.squarespace-cdn.com/content/v1/502dd96584ae3ea0a825237d/1536765270713-S3RZH90CB3XJ3PKMXY4N/Logo+-+Color+on+White.png?format=1000w" alt="Canvas.js" height="50" />
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/jquery.png" alt="jQuery" height="50" />  
 </div>
