@@ -9,11 +9,12 @@
 <img style="margin: 10px" src="https://cdn0.iconfinder.com/data/icons/flat-round-system/512/archlinux-512.png" alt="Arch" height="50" /> 
 
 <img style="margin: 10px" src="https://icon-library.com/images/bash-icon/bash-icon-5.jpg" alt="Bash" height="50" />  
-<img style="margin: 10px" src="https://fishshell.com/assets/img/Terminal_Logo_LCD_Small.png" alt="Bash" height="50" />
+<img style="margin: 10px" src="https://fishshell.com/assets/img/Terminal_Logo_LCD_Small.png" alt="Fish" height="50" />
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/xampp.png" alt="XAMPP" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/figma-icon.svg" alt="Figma" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /> 
-  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" />
+<img style="margin: 10px" src="https://cdn-icons-png.flaticon.com/512/136/136526.png" alt="HTML5" height="50" />
+
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/sass-original.svg" alt="Sass" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="50" />  
