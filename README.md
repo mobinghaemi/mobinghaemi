@@ -11,7 +11,6 @@
 
 <img style="margin: 10px" src="https://icon-library.com/images/bash-icon/bash-icon-5.jpg" alt="Bash" height="50" />  
 <img style="margin: 10px" src="https://fishshell.com/assets/img/Terminal_Logo_LCD_Small.png" alt="Fish" height="50" />
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/xampp.png" alt="XAMPP" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/figma-icon.svg" alt="Figma" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" />
 <img style="margin: 10px" src="https://cdn-icons-png.flaticon.com/512/136/136526.png" alt="XML" height="50" />
