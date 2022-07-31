@@ -1,4 +1,4 @@
-# **<div align="center">Hi 👋 , I'm <strong>Mobin Ghaemi</strong> a <strong>JavaScript</strong> Programmer 💖</div>**  
+# **<main align="center">Hi 👋 , I'm <strong>Mobin Ghaemi</strong> a <strong>JavaScript</strong> Programmer 💖</main>**  
 
 <br/>  
 
@@ -13,6 +13,7 @@
 <img style="margin: 10px" src="https://fishshell.com/assets/img/Terminal_Logo_LCD_Small.png" alt="Fish" height="50" />
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/figma-icon.svg" alt="Figma" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" />
+<img style="margin: 10px" src="https://iconape.com/wp-content/png_logo_vector/haml-logo.png" alt="Haml" height="50" />
 <img style="margin: 10px" src="https://cdn-icons-png.flaticon.com/512/136/136526.png" alt="XML" height="50" />
 
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" />  
