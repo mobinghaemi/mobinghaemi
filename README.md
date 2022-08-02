@@ -14,6 +14,7 @@
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/figma-icon.svg" alt="Figma" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" />
 <img style="margin: 10px" src="https://iconape.com/wp-content/png_logo_vector/haml-logo.png" alt="Haml" height="50" />
+<img style="margin: 10px" src="https://res.cloudinary.com/practicaldev/image/fetch/s--Rr7K5gOm--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://dbalas.gallerycdn.vsassets.io/extensions/dbalas/vscode-html2pug/0.0.2/1532242577062/Microsoft.VisualStudio.Services.Icons.Default" alt="Pug" height="50" />
 <img style="margin: 10px" src="https://cdn-icons-png.flaticon.com/512/136/136526.png" alt="XML" height="50" />
 
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" />  
