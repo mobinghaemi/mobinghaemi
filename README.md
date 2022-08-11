@@ -9,24 +9,11 @@
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" />  
 <img style="margin: 10px" src="https://cdn0.iconfinder.com/data/icons/flat-round-system/512/archlinux-512.png" alt="Arch" height="50" /> 
 
-<img style="margin: 10px" src="https://icon-library.com/images/bash-icon/bash-icon-5.jpg" alt="Bash" height="50" />  
-<img style="margin: 10px" src="https://fishshell.com/assets/img/Terminal_Logo_LCD_Small.png" alt="Fish" height="50" />
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/figma-icon.svg" alt="Figma" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" />
-<img style="margin: 10px" src="https://iconape.com/wp-content/png_logo_vector/haml-logo.png" alt="Haml" height="50" />
-<img style="margin: 10px" src="https://res.cloudinary.com/practicaldev/image/fetch/s--Rr7K5gOm--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://dbalas.gallerycdn.vsassets.io/extensions/dbalas/vscode-html2pug/0.0.2/1532242577062/Microsoft.VisualStudio.Services.Icons.Default" alt="Pug" height="50" />
-<img style="margin: 10px" src="https://cdn-icons-png.flaticon.com/512/136/136526.png" alt="XML" height="50" />
-
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/sass-original.svg" alt="Sass" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/sass-original.svg" alt="Sass" height="50" />   
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" />
-<img style="margin: 10px" src="https://cdn.iconscout.com/icon/premium/png-256-thumb/json-18-695417.png" alt="Json" height="50" />
-<img style="margin: 10px" src="https://softinfonow.com/wp-content/uploads/2021/09/oops-logo.png" alt="OOP" height="50" />
-  
-<img style="margin: 10px" src="https://images.squarespace-cdn.com/content/v1/502dd96584ae3ea0a825237d/1536765270713-S3RZH90CB3XJ3PKMXY4N/Logo+-+Color+on+White.png?format=1000w" alt="Canvas.js" height="50" />
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/jquery.png" alt="jQuery" height="50" />  
 </div>
 <br />
 
