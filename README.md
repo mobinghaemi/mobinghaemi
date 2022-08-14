@@ -1,4 +1,4 @@
-# **<main align="center">Hi 👋 , I'm <strong>Mobin Ghaemi</strong> a <strong>JavaScript</strong> Programmer 💖</main>**  
+# **<main align="center">Hi 👋 , I'm <strong>Mobin Ghaemi</strong> a <strong>JavaScript</strong> & <strong>Lua</strong> Programmer 💖</main>**  
 
 <br/>  
 
