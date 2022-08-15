@@ -1,5 +1,18 @@
-# **<main align="center">Hi 👋 , I'm <strong>Mobin Ghaemi</strong> a <strong>JavaScript (React) </strong> & <strong>Lua</strong> Programmer 💖</main>**  
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>mobin ghaemi</title>
 
+    <meta name="keywords" content="HTML, CSS, JavaScript, Mobin , Ghaemi , Mobin Ghaemi ,
+    React , Lua , Github">
+    <meta name="author" content="Mobin Ghaemi">
+    <meta name="description" content="Mobin Ghaemi is a React & Lua Developer">
+</head>
+<body>
+    ### **<main align="center">Hi 👋 , I'm <strong>Mobin Ghaemi</strong> a <strong>JavaScript (React) </strong> & <strong>Lua</strong> Programmer 💖</main>**  
 <br/>  
 
 <p>Skills<p/>
@@ -41,3 +54,6 @@
 <img src=https://img.shields.io/badge/codepen-%23131417.svg?&style=for-the-badge&logo=codepen&logoColor=white alt=codepen style="margin-bottom: 5px;" />
 </a> 
 </div>  
+
+</body>
+</html>
